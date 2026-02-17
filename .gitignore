@@ -28,11 +28,11 @@ kagglehub_cache/
 *.kaggle.json
 
 # Datasets and outputs
-data/
+#data/
 raw_data/
 processed_data/
 kaggle-downloads/
-*.csv
+#*.csv
 *.xlsx
 *.pkl
 models/
@@ -43,7 +43,7 @@ checkpoints/
 *.ipynb_checkpoints
 .jupyter/
 jupyter/
-*.ipynb
+#*.ipynb
 
 # Environment
 .env
