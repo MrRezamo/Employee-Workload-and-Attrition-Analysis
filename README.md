@@ -15,6 +15,7 @@ Analysis (EDA)**, **Machine Learning classification models**, and an
 
 ## 📁 Project Structure
 
+
 EMPLOYEE-WORKLOAD-ATTRITION/
 │
 ├── data/
@@ -27,9 +28,9 @@ EMPLOYEE-WORKLOAD-ATTRITION/
 │ └── (trained model files saved as .joblib)
 │
 ├── notebooks/
-│ ├── EDA.ipynb # Exploratory Data Analysis
-│ ├── modeling.ipynb # ML Model Training & Evaluation
-│ └── dashboard.ipynb # Interactive Plotly Dashboard
+│ ├── EDA.ipynb
+│ ├── modeling.ipynb
+│ └── dashboard.ipynb
 │
 ├── .gitignore
 ├── LICENSE
@@ -169,4 +170,4 @@ jupyter notebook
 
 ## 📄 License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License. See [LICENSE](MIT license) for details.
